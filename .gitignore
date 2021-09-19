@@ -1,0 +1,19 @@
+node_modules
+
+#Hardhat files
+cache
+artifacts
+coverage
+coverage.json
+local/*.ts
+#delpoy
+output
+scripts/images
+
+.vscode
+.DS_Store
+package-lock.json
+yarn.lock
+
+node_modules
+.env
